@@ -23,10 +23,9 @@ Persistência Local: @react-native-async-storage/async-storage
 #Estrutura de Pastas
 O projeto foi organizado da seguinte forma para garantir escalabilidade e manutenibilidade:
 
-MeuGestorDeGastos/
-├── assets/               # Imagens estáticas (ícones, placeholder de avatar)
-├── components/           # Componentes reutilizáveis (Botão, Card, Input, etc.)
-├── constants/            # Constantes globais (listas de categorias)
-├── context/              # Context API para gerenciamento de estado (TransactionContext)
-├── screens/              # As 4 telas principais do app (Resumo, NovoGasto, etc.)
-└── App.js                # Ponto de entrada principal e configuração da navegação
+assets/               # Imagens estáticas (ícones, placeholder de avatar)
+components/           # Componentes reutilizáveis (Botão, Card, Input, etc.)
+constants/            # Constantes globais (listas de categorias)
+context/              # Context API para gerenciamento de estado (TransactionContext)
+screens/              # As 4 telas principais do app (Resumo, NovoGasto, etc.)
+App.js                # Ponto de entrada principal e configuração da navegação
