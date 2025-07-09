@@ -20,7 +20,7 @@ Componentes de UI: @react-native-picker/picker para seletores
 APIs do Dispositivo: expo-image-picker para acesso à galeria
 Persistência Local: @react-native-async-storage/async-storage
 
-#Estrutura de Pastas
+# Estrutura de Pastas
 O projeto foi organizado da seguinte forma para garantir escalabilidade e manutenibilidade:
 
 assets/               # Imagens estáticas (ícones, placeholder de avatar)
